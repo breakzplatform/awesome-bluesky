@@ -25,3 +25,4 @@ Always use an app password, never your main password!
  - [TOKIMEKI](https://tokimekibluesky.vercel.app/) - alternative web client
  - [Twexit.nl](https://twexit.nl/) - self-described experimental bluesky web client. Includes functions for seeing who has blocked or muted you and other stats
  - [Wolfgang](https://wolfgang.raios.xyz/) - charts, interactions, social circles, top lists
+ - [SkyPicker](https://skypicker.site/) - a tool for doing raffles on bluesky
